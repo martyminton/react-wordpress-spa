@@ -38,9 +38,17 @@
     "webpack-dev-server": "^2.4.4"
   },
   "dependencies": {
+    "axios": "^0.17.1",
     "babel-loader": "^7.0.0",
+    "firebase": "^4.8.1",
+    "lodash": "^4.17.4",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-banner-slider": "^1.1.1",
+    "react-dom": "^15.5.4",
+    "react-router-dom": "^4.2.2",
+    "redux": "^3.7.2",
+    "wordpress-query-posts": "^1.1.2",
+    "wordpress-rest-api-oauth-1": "^1.1.7"
   },
   "main": "server.js"
 }
